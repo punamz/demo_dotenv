@@ -2,7 +2,7 @@ name: demo_dotenv
 on:
   push:
     branches:
-      - release
+      - master
 jobs:
   build:
     name: flutter build
