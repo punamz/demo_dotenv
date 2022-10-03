@@ -1,0 +1,34 @@
+name: dotenv_demo
+description: A new Flutter project.
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  include_pub:
+    git:
+      url: https://git.vietinfo.tech:8443/flutter_core_package/include_pub.git
+      ref: master
+
+
+  flutter_lints: ^2.0.1
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - .env.dev
+    - .env.prod
