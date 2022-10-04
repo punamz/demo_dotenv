@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "183471420694",
+    "project_id": "test-fastlane-364410",
+    "storage_bucket": "test-fastlane-364410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183471420694:android:2edbc9360cb1f8a964cc37",
+        "android_client_info": {
+          "package_name": "tech.vietinfo.dotenv_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183471420694-1jdbv82cn85aoan20cjsardkrbam2aoo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.vietinfo.dotenv_demo",
+            "certificate_hash": "7d71f2cb1f73dc501f37cad30925840320bfa741"
+          }
+        },
+        {
+          "client_id": "183471420694-pj65mebkqd44sjta2oq9ngr5i4avt030.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRmPbLMHvi9_1OR2hhga_tfrdrhEifyOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183471420694-pj65mebkqd44sjta2oq9ngr5i4avt030.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
